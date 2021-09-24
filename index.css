@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+body{
+    background-color: rgb(29, 29, 29);
+
+}
+
+p-1{
+    background-color: blue;
+    font-size: 26px;
+    font-weight: 200;
+    line-height: 50px;
+}
+
+
+p {
+    background-color: red;
+    font-size: 26px;
+    font-weight: 200;
+    line-height: 35px;
+}
+
+h1{
+    font-size: 28px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h2{
+    font-size: 26px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+spen {
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: 200;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    
+}
+
+th{
+    font-size: 20px;
+}
+
+td{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+
+table{
+    background-color: blue;
+    max-width: 50%;
+}
+
+.ukuran-gambar{
+   width: 250px; 
+   height: 250px;
+   border-radius: 80%;
+}
+
+.gambar{
+    text-align: center;
+}
+
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+li{
+    background-color: red;
+    font-size: 25px;
+    font-weight: 200;
+    line-height: 50px;
+}
+
+
+
+
